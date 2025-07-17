@@ -1,0 +1,7 @@
+__debug*
+*.db
+resume-mcp
+*.pkg
+*_log.json
+bin
+.vercel
